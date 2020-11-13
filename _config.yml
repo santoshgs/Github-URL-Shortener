@@ -1,8 +1,8 @@
-title: Jekyll URL Shortener
+title: Snippity Snap - Personal URL Shortener for Santosh Ganjur
 description: ✂️🔗 This is a template repository for making URL Shorteners with Jekyll and GitHub Pages. Create short URLs that can be easily shared, tweeted, or emailed to friends. Fork this repo to get started.
 logo: /assets/img/logo.png
 show_downloads: true
-google_analytics:
+google_analytics: G-CX4QSQ2ZVD
 theme: jekyll-theme-hacker
 
 permalink: /:slug/
